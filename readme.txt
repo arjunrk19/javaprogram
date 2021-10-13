@@ -1,5 +1,5 @@
 This program has been written keeping in mind my limited view of both Java programming language and Computer Science 
-core concepts such as Data Structures. The errors in the program are not intentional, but speaks of my lesser knowledge in Java.
+core concepts such as Data Structures due to my degree being in Electronics and Communication. The errors in the program are not intentional, but speaks of my lesser knowledge in Java.
 
 Working Structure of Program:
 
