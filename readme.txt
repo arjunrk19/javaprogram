@@ -1,5 +1,7 @@
 This program has been written keeping in mind my limited view of both Java programming language and Computer Science 
-core concepts such as Data Structures due to my degree being in Electronics and Communication. The errors in the program are not intentional, but speaks of my lesser knowledge in Java. The program was first written in Python, in which I was more proficient and then ported to Java with the help of Google Search.
+core concepts such as Data Structures due to my degree being in Electronics and Communication. 
+The errors in the program are not intentional, but speaks of my lesser knowledge in Java. 
+The program was first written in Python, in which I was more proficient and then ported to Java with the help of Google Search.
 
 Working Structure of Program:
 
